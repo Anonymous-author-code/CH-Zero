@@ -1,0 +1,11 @@
+Python>=3.8
+NumPy
+SciPy
+PyTorch>=1.7
+tqdm
+tensorboard_logger
+Matplotlib 
+scipy
+cython
+torch
+pyconcorde
